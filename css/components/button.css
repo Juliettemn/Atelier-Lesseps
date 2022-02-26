@@ -1,0 +1,50 @@
+.btn-ourson {
+	background-color: #693a32;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-family: 'Lora', serif;
+	font-weight: 700;
+	font-style: italic;
+}
+
+.btn-coussin {
+	background-color: #ca6931;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-family: 'Lora', serif;
+	font-weight: 700;
+	font-style: italic;
+}
+
+.btn-gigoteuse {
+	background-color: #507288;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-family: 'Lora', serif;
+	font-weight: 700;
+	font-style: italic;
+}
+
+.btn-couverture {
+	background-color: #b4a39b;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-family: 'Lora', serif;
+	font-weight: 700;
+	font-style: italic;
+}
+
+
+.btn-black {
+	background-color: #0000008c;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-family: 'Lora', serif;
+	font-weight: 700;
+	font-style: italic;
+}

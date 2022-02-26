@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;700&family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,700&family=Parisienne&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin-left: 0px;
+}
+
+h1 {
+	font-family: 'Parisienne', cursive;
+	font-size: 30px;
+	margin-left: 40px;
+}
+
+h2 {
+	font-family: 'Lora', serif;
+	font-size: 20px;
+	font-weight: 400;
+	font-style: initial;
+	margin-left: 40px
+}
+
+h3 {
+	color: #4c6576;
+	font-family: 'Dancing Script', cursive;
+	font-weight: 500;
+	font-size: 40px;
+	margin-left: 40px;
+}
+
+
+
+
+a{
+	text-decoration: none;
+}
